@@ -1,0 +1,7 @@
+##This file is generated from whitelist-master https://github.com/tomyamkung/sandbox/blob/e7aa02c357655096ed97e4a46b36eeef89b1ab6d/whitelist.yaml
+whitelist:
+  componey_a:
+    - location: Tokyo
+      cidrs:
+      - 8.8.8.8/32
+      - 3.3.3.3/32
